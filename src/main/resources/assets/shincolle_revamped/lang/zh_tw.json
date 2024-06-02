@@ -1,0 +1,20 @@
+{
+
+  "itemGroup.shincolleRevampedTab" : "ShinColle Revamped",
+
+  "item.shincolle_revamped.abyssium_ingot": "深海金屬",
+  "item.shincolle_revamped.polymetallic_nodules": "多金屬結核",
+  "item.shincolle_revamped.abyssium_nugget": "深海金屬粒",
+  "item.shincolle_revamped.polymetallic_nugget": "多金屬粒",
+  "item.shincolle_revamped.ammo": "怨念彈",
+  "item.shincolle_revamped.ammo_container": "怨念彈集裝箱",
+  "item.shincolle_revamped.heavy_ammo": "重型怨念彈",
+  "item.shincolle_revamped.heavy_ammo_container": "重型怨念彈集裝箱",
+  "item.shincolle_revamped.repair_bucket": "修復桶",
+  "item.shincolle_revamped.rice_balls": "戰鬥糧食 (飯糰組合)",
+  "item.shincolle_revamped.grudge_flavour_rice_balls": "戰鬥糧食 (飯糰組合，怨念口味)",
+  "item.shincolle_revamped.rice_ball_xl": "戰鬥糧食 (特大號飯糰)",
+  "item.shincolle_revamped.grudge_flavour_rice_ball_xl": "戰鬥糧食 (特大號飯糰，怨念口味)",
+  "item.shincolle_revamped.ice_cream": "戰鬥糧食 (特大號飯糰，怨念口味)",
+  "item.shincolle_revamped.grudge_flavour_ice_cream": "戰鬥糧食 (冰淇淋，怨念口味)"
+}

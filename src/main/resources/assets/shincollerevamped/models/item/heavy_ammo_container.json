@@ -1,8 +1,0 @@
-{
-  "parent": "item/generated",
-
-  "textures":
-  {
-    "layer0": "shincollerevamped:item/heavy_ammo_container"
-  }
-}
