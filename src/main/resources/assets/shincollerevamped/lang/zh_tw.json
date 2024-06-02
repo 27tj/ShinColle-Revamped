@@ -2,7 +2,13 @@
 
   "itemGroup.shincolleRevampedTab" : "ShinColle Revamped",
 
-  "item.shincollerevamped.abyssiumingot": "深海金屬",
-  "item.shincollerevamped.polymetallicnodules": "多金屬結核",
-  "item.shincollerevamped.abyssiumnugget": "深海金屬粒"
+  "item.shincollerevamped.abyssium_ingot": "深海金屬",
+  "item.shincollerevamped.polymetallic_nodules": "多金屬結核",
+  "item.shincollerevamped.abyssium_nugget": "深海金屬粒",
+  "item.shincollerevamped.polymetallic_nugget": "多金屬粒",
+  "item.shincollerevamped.ammo": "怨念彈",
+  "item.shincollerevamped.ammo_container": "怨念彈集裝箱",
+  "item.shincollerevamped.heavy_ammo": "重型怨念彈",
+  "item.shincollerevamped.heavy_ammo_container": "重型怨念彈集裝箱",
+  "item.shincollerevamped.repair_bucket": "修復桶"
 }

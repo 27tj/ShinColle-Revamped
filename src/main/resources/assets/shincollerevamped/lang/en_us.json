@@ -2,8 +2,13 @@
 
   "itemGroup.shincolleRevampedTab" : "ShinColle Revamped",
 
-  "item.shincollerevamped.abyssiumingot": "Abyssium Ingot",
-  "item.shincollerevamped.polymetallicnodules": "Polymetallic Nodules",
-  "item.shincollerevamped.abyssiumnugget": "Abyssium Nugget"
-
+  "item.shincollerevamped.abyssium_ingot": "Abyssium Ingot",
+  "item.shincollerevamped.polymetallic_nodules": "Polymetallic Nodules",
+  "item.shincollerevamped.abyssium_nugget": "Abyssium Nugget",
+  "item.shincollerevamped.polymetallic_nugget": "Polymetallic Nugget",
+  "item.shincollerevamped.ammo": "Grudgeful Ammo",
+  "item.shincollerevamped.ammo_container": "Grudgeful Ammo Container",
+  "item.shincollerevamped.heavy_ammo": "Heavy Grudgeful Ammo",
+  "item.shincollerevamped.heavy_ammo_container": "Heavy Grudgeful Ammo Container",
+  "item.shincollerevamped.repair_bucket" : "Repair Bucket"
 }

@@ -9,7 +9,7 @@ public class ShinColleRevampedItemGroup {
         @Override
         public ItemStack createIcon() {
 
-            return new ItemStack(ShinColleRevampedItems.ABYSSIUMINGOT.get());
+            return new ItemStack(ShinColleRevampedItems.ABYSSIUM_INGOT.get());
         }
     };
 
