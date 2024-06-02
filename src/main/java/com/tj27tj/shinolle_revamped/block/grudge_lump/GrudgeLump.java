@@ -7,6 +7,4 @@ public class GrudgeLump extends Block {
     public GrudgeLump(Properties properties) {
         super(properties);
     }
-
-
 }

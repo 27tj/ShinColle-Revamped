@@ -2,6 +2,7 @@ package com.tj27tj.shinolle_revamped.block;
 
 import com.tj27tj.shinolle_revamped.ShinColleRevamped;
 import com.tj27tj.shinolle_revamped.block.grudge_lump.GrudgeLump;
+import com.tj27tj.shinolle_revamped.block.grudge_lump.HeavyGrudgeLump;
 import com.tj27tj.shinolle_revamped.block.ore.PolymetallicOre;
 import com.tj27tj.shinolle_revamped.item.ShinColleRevampedItemGroup;
 import com.tj27tj.shinolle_revamped.item.ShinColleRevampedItems;
@@ -48,7 +49,13 @@ public class ShinColleRevampedBlocks {
     public static final RegistryObject<Block> GRUDGE_LUMP = registerBlock("grudge_lump",
             () -> new GrudgeLump(AbstractBlock.Properties.create(Material.SAND)
                     .harvestLevel(0).harvestTool(ToolType.SHOVEL).setLightLevel((state) -> 1)
-                    .hardnessAndResistance(0.8f).sound(SoundType.SAND)));
+                    .hardnessAndResistance(1f,200f).sound(SoundType.SAND)));
+
+    public static final RegistryObject<Block> HEAAVY_GRUDGE_LUMP = registerBlock("heavy_grudge_lump",
+            () -> new HeavyGrudgeLump(AbstractBlock.Properties.create(Material.SAND)
+                    .harvestLevel(0).harvestTool(ToolType.SHOVEL).setLightLevel((state) -> 1)
+                    .hardnessAndResistance(3f,600f).sound(SoundType.SAND)));
+
 
     public static final RegistryObject<Block> SUBLIMATION_GRUDGE_LUMP = registerBlock("sublimation_grudge_lump",
             () -> new GrudgeLump(AbstractBlock.Properties.create(Material.SAND)
