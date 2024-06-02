@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+        "aaa",
+        "aaa",
+        "aaa"
+    ],
+    "key":
+    {
+        "a":
+        {
+            "item": "shincolle_revamped:polymetallic_nodules",
+            "data": 0
+        }
+    },
+    "result":
+    {
+        "item": "shincolle_revamped:polymetallic_block"
+    }
+}

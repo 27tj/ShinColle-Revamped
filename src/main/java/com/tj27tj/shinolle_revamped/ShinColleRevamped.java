@@ -1,5 +1,6 @@
 package com.tj27tj.shinolle_revamped;
 
+import com.tj27tj.shinolle_revamped.block.ShinColleRevampedBlocks;
 import com.tj27tj.shinolle_revamped.item.ShinColleRevampedItems;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
@@ -34,6 +35,8 @@ public class ShinColleRevamped
         IEventBus eventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         ShinColleRevampedItems.register(eventBus);
+
+        ShinColleRevampedBlocks.register(eventBus);
 
         eventBus.addListener(this::setup);
         // Register the enqueueIMC method for modloading

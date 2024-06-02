@@ -2,6 +2,20 @@
 
   "itemGroup.shincolleRevampedTab" : "ShinColle Revamped",
 
+  "__comment": "blocks",
+  "block.shincolle_revamped.abyssium_block" : "Abyssium Block",
+
+
+
+
+ "block.shincolle_revamped.grudge_lump" : "Grudge Lump",
+ "block.shincolle_revamped.sublimation_grudge_lump" : "Sublimation Grudge Lump",
+
+  "block.shincolle_revamped.polymetallic_block" : "Polymetallic Block",
+  "block.shincolle_revamped.polymetallic_gravel" : "Polymetallic Gravel",
+  "block.shincolle_revamped.polymetallic_ore" : "Polymetallic Ore",
+
+  "__comment": "items",
   "item.shincolle_revamped.abyssium_ingot": "Abyssium Ingot",
   "item.shincolle_revamped.polymetallic_nodules": "Polymetallic Nodules",
   "item.shincolle_revamped.abyssium_nugget": "Abyssium Nugget",
@@ -16,5 +30,10 @@
   "item.shincolle_revamped.rice_ball_xl" : "Combat Ration (Rice Ball XL)",
   "item.shincolle_revamped.grudge_flavour_rice_ball_xl" : "Combat Ration (Rice Ball XL, Grudge Flavour)",
   "item.shincolle_revamped.ice_cream" : "Combat Ration (Ice Cream)",
-  "item.shincolle_revamped.grudge_flavour_ice_cream" : "Combat Ration (Ice Cream, Grudge Flavour)"
+  "item.shincolle_revamped.grudge_flavour_ice_cream" : "Combat Ration (Ice Cream, Grudge Flavour)",
+
+
+
+
+  "item.shincolle_revamped.grudge" : "Grudge"
 }

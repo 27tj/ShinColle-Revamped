@@ -1,0 +1,18 @@
+ {
+   "type": "minecraft:crafting_shapeless",
+   "group": "abyssium_ingot",
+    "ingredients":
+    [
+        {
+          "tag" : "forge:ingots/iron"
+        },
+        {
+            "item": "shincolle_revamped:grudge"
+        }
+    ],
+    "result":
+    {
+        "item": "shincolle_revamped:abyssium_ingot"
+    }
+ }
+

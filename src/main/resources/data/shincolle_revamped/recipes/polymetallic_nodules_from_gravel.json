@@ -1,0 +1,16 @@
+ {
+   "type": "minecraft:crafting_shapeless",
+   "group": "polymetallic_nodules",
+    "ingredients":
+    [
+        {
+            "item": "shincolle_revamped:polymetallic_block"
+        }
+    ],
+    "result":
+    {
+        "item": "shincolle_revamped:polymetallic_nodules",
+        "count": 9
+    }
+ }
+

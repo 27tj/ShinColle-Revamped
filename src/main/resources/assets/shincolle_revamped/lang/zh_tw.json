@@ -2,6 +2,20 @@
 
   "itemGroup.shincolleRevampedTab" : "ShinColle Revamped",
 
+  "__comment": "blocks",
+  "block.shincolle_revamped.abyssium_block" : "深海金屬磚",
+
+
+
+
+ "block.shincolle_revamped.grudge_lump" : "怨念團塊",
+ "block.shincolle_revamped.sublimation_grudge_lump" : "昇華的怨念團塊",
+
+  "block.shincolle_revamped.polymetallic_block" : "多金屬磚",
+  "block.shincolle_revamped.polymetallic_gravel" : "多金屬礫石",
+  "block.shincolle_revamped.polymetallic_ore" : "多金屬礦",
+
+  "__comment": "items",
   "item.shincolle_revamped.abyssium_ingot": "深海金屬",
   "item.shincolle_revamped.polymetallic_nodules": "多金屬結核",
   "item.shincolle_revamped.abyssium_nugget": "深海金屬粒",
@@ -16,5 +30,10 @@
   "item.shincolle_revamped.rice_ball_xl": "戰鬥糧食 (特大號飯糰)",
   "item.shincolle_revamped.grudge_flavour_rice_ball_xl": "戰鬥糧食 (特大號飯糰，怨念口味)",
   "item.shincolle_revamped.ice_cream": "戰鬥糧食 (特大號飯糰，怨念口味)",
-  "item.shincolle_revamped.grudge_flavour_ice_cream": "戰鬥糧食 (冰淇淋，怨念口味)"
+  "item.shincolle_revamped.grudge_flavour_ice_cream": "戰鬥糧食 (冰淇淋，怨念口味)",
+
+
+
+
+  "item.shincolle_revamped.grudge" : "怨念"
 }

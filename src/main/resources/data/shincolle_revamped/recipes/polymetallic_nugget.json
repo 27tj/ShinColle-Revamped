@@ -1,0 +1,16 @@
+ {
+   "type": "minecraft:crafting_shapeless",
+    "ingredients":
+    [
+
+        {
+            "item": "shincolle_revamped:polymetallic_nodules"
+        }
+    ],
+    "result":
+    {
+        "item": "shincolle_revamped:polymetallic_nugget",
+        "count": 9
+    }
+ }
+

@@ -27,6 +27,8 @@ public class ShinColleRevampedItems {
             () -> new Item(new Item.Properties().group(ShinColleRevampedItemGroup.SHINCOLLE_REVAMPED_GROUP)));
     public static final RegistryObject<Item> POLYMETALLIC_NUGGET = ITEMS.register("polymetallic_nugget",
             () -> new Item(new Item.Properties().group(ShinColleRevampedItemGroup.SHINCOLLE_REVAMPED_GROUP)));
+    public static final RegistryObject<Item> GRUDGE = ITEMS.register("grudge",
+            () -> new Item(new Item.Properties().group(ShinColleRevampedItemGroup.SHINCOLLE_REVAMPED_GROUP)));
 
     //Ammo
     public static final RegistryObject<Item> AMMO = ITEMS.register("ammo",
