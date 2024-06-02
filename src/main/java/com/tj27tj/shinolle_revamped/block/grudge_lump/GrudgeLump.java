@@ -8,8 +8,5 @@ public class GrudgeLump extends Block {
         super(properties);
     }
 
-    @Override
-    public boolean isTransparent(BlockState state) {
-        return true;
-    }
+
 }
